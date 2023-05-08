@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedprogram-in-c-that-uses-files-and-nested-loops-to-create-a-file
+<br>
+write a program in C++ that uses files and nested loops to create a file from the quiz grades entered by the user, then read the grades from the file and calculates the average quiz grade for a class. Each student takes 4 quizzes. Use a nested loop to write each student’s quizzes to a file. Then read the data from the file in order to display the student’s average score and the class average. Also write the program in Raptor. Input the data into the Raptor program during runtime. Do not use files for theRaptor program.
